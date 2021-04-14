@@ -4,14 +4,14 @@ SnapM gives outmost importance to your privacy.Please take a minute to review th
 
 Required Access Permissions
 
-1. To be able to take pictures and record audio and videos, we need access to your camera and microphone .
+1. To be able to take pictures and record audio and videos, we need access to your camera and microphone.
 2. To be able to store and display the pictures and videos, we need access to your photo, media and files.
 
 What Information We Collect
 
 NONE
 
-All photos and videos taken, are stored ONLY in your phone . 
+All photos and videos taken, are stored ONLY in your phone. ONLY you have the complete authority to share photos and videos with any third party apps.
 
 Sharing
 
