@@ -2,10 +2,10 @@ Privacy Policy :
 
 SnapM gives outmost importance to your privacy.Please take a minute to review the details of our privacy practices below.
 
-Required Permissions
+Required Access Permissions
 
-1. To be able to take pictures and record audio and video, we need access to your camera  and microphone .
-2. To be able to store and display the pictures and videos , we need access to photo, media and files.
+1. To be able to take pictures and record audio and videos, we need access to your camera and microphone .
+2. To be able to store and display the pictures and videos, we need access to your photo, media and files.
 
 What Information We Collect
 
