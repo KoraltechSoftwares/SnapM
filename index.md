@@ -11,11 +11,11 @@ What Information We Collect
 
 NONE
 
-All photos and videos taken are 100% PRIVATE to the user.
+All photos and videos taken, are stored ONLY in your phone . 
 
 Sharing
 
-We would ask you to share SnapM application logs with us ONLY when your reported issue is something specific to you .The user can decide either to share or not share the application logs.
+ONLY to resolve your reported issue, we would ask you to share SnapM application logs pertaining to specific date(s) with us . You can choose either to share or not share.
 
 
 Changes
